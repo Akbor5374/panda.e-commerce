@@ -1,0 +1,71 @@
+.container{
+    margin-bottom:100px;
+}
+.background{
+    background-image:linear-gradient(990deg, #feeae9, #fcecec);
+    border-radius:10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.btn-color{
+    color:#fff;
+    background-image: linear-gradient(20deg, #ff1973, #fc69a4 );
+    padding: 10px 20px;
+    border-radius:10px;
+}
+.price{
+    color:#ff1973;
+}
+.cat1,
+.cat2,
+.cat3{
+    height:150px;
+    padding: 10px 30px;
+    border-radius:10px;
+    color:#fff;
+}
+.categories img{
+    width:100px;
+}
+.cat1{
+    background-image: linear-gradient(90deg, #f64ff8, #f1a9f1);
+}
+.cat2{
+    background-image: linear-gradient(90deg, #f84f58, #f3aa94);
+}
+.cat3{
+    background-image: linear-gradient(90deg, #269ff0, #92c7f1);
+}
+.card{
+    border:none;
+    box-shadow: 10px 10px 20px gray;
+    border-radius:10px;
+}
+.card-footer{
+    border:none;
+    background-color: #fff;
+}
+.card-footer .btn-color{
+    width:100%;
+}
+.subcribe{
+    height:300px;
+    width:100%;
+    background-color: rgb(252, 173, 212);
+    border-radius:15px;
+}
+input{
+    width:80%;
+    border-radius:5px;
+    border:none;
+}
+input:focus{
+    border:none;
+    border:2px solid rgb(243, 17, 194);
+    color: rgb(245, 40, 183);
+}
+footer h6{
+    font-size:14px;
+    color: rgb(175, 172, 172);
+}
